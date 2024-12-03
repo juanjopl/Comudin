@@ -1,0 +1,8 @@
+{
+    "name": "comudin/comudin-app",
+    "description": "Aplicacion PHP con MySQL",
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-mysqli": "*"
+    }
+}

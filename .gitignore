@@ -1,0 +1,11 @@
+# Ignorar dependencias de Composer
+/vendor/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración local (si usas .env para variables)
+.env
+
+# Ignorar archivos de sistema de MacOS
+.DS_Store
